@@ -17,7 +17,7 @@ For this project, we have two datasets:
 * the 911.csv file we downloaded by Mike Chirico from Kaggle                    
 * the Townships of Montgomery County data that we scraped from                                http://statisticalatlas.com/county/Pennsylvania/Montgomery-County/Overview
 
-##### Prerequisites
+## Prerequisites
 
 Software
 
