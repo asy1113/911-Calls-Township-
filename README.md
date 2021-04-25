@@ -1,5 +1,3 @@
-### BMI 6018 Intro to Programming (2017 Fall) Final Project
-
 # Relationship between amount of 911 calls and characteristics of townships in Montgomery County in Pennsylvania
 
 
@@ -50,7 +48,3 @@ Version 1 - 12/16/2017
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md from our package for more details
-
-## Team Member Evaluation
-
-We (Soyoung An and Yisurai Du) both contribute equally on this project for every parts. 
